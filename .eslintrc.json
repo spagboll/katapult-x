@@ -1,8 +1,8 @@
 {
   // "extends": "next/core-web-vitals"
-  "parser": "babel-eslint",
-  "parserOptions": {
-    "sourceType": "module", 
-    "ecmaVersion": "latest"
-}
+  "parser": "babel-eslint"
+//   "parserOptions": {
+//     "sourceType": "module", 
+//     "ecmaVersion": "latest"
+// }
 }
